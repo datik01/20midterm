@@ -17,6 +17,16 @@ h3{
     font-size: 35pt;
 }
 
+h5{
+    font-family: 'Playfair Display', serif;
+    font-size: 12pt;
+}
+
+.bullets{
+    font-size: 10pt;
+    font-family: 'Playfair Display', serif;
+}
+
 a{
     text-decoration: none;
     transition-timing-function: ease;
